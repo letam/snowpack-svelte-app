@@ -1,16 +1,16 @@
 {
-  "name": "@snowpack/app-template-svelte",
-  "description": "A preconfigured template for Snowpack with Svelte",
-  "version": "1.10.8",
+  "name": "snowpack-svelte-app",
+  "description": "A preconfigured template for Web App built with Snowpack with Svelte",
+  "version": "0.0.1",
   "license": "MIT",
-  "homepage": "https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-svelte#readme",
+  "homepage": "https://github.com/letam/snowpack-svelte-app#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/snowpackjs/snowpack.git",
-    "directory": "create-snowpack-app/app-template-svelte"
+    "url": "https://github.com/letam/snowpack-svelte.git"
   },
   "keywords": [
-    "csa-template"
+    "csa-template",
+    "svelte"
   ],
   "publishConfig": {
     "access": "public"
@@ -31,6 +31,5 @@
     "@web/test-runner": "^0.10.0",
     "chai": "^4.2.0",
     "snowpack": "^2.17.1"
-  },
-  "gitHead": "a01616bb0787d56cd782f94cecf2daa12c7594e4"
+  }
 }
